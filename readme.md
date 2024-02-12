@@ -19,7 +19,10 @@ The Online Restaurant Management System (ORMS) is a software platform that helps
     "@types/express": "^4.17.21",
     "@types/node": "^20.11.16",
     "typescript": "^5.3.3"
-    
+
+
+# Using Database
+Sequelize ( MYSqL2)
 
 # Port Number : 
 8080 .
