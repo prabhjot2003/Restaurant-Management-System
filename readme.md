@@ -31,7 +31,3 @@ Sequelize ( MYSqL2)
 npm start .
 
 
-
-
-
-
